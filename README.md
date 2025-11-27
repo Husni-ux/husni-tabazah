@@ -32,7 +32,6 @@
 ## 📈 GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
 </p>
 
 ## 🤝 Let’s connect
