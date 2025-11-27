@@ -29,10 +29,6 @@
 - **Selenium Practice** — UI scenarios for automation training
 - **STLC Tool** — generates QA deliverables faster
 
-## 📈 GitHub Stats
-<p align="center">
-  <img height="160" src="https://nebula-test-lab-lv1.vercel.app/" />
-</p>
 
 ## 🤝 Let’s connect
 If you’re a tester (or want to become one), welcome to **Testing Club** 👊
