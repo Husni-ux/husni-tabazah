@@ -7,7 +7,6 @@
 - ⚙️ Building training labs & automation-ready projects
 - 🌍 Based in Saudi Arabia
 
----
 
 ## Skills
 <p align="left">
@@ -19,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="35" />
 </p>
 
----
+
 
 ## Socials
 <p align="left">
