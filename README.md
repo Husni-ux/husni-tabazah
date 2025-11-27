@@ -31,7 +31,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" />
+  <img height="160" src="https://nebula-test-lab-lv1.vercel.app/" />
 </p>
 
 ## 🤝 Let’s connect
